@@ -1,8 +1,8 @@
 ![build](https://github.com/jfcrenshaw/new-project/workflows/build/badge.svg)
 [![codecov](https://codecov.io/gh/jfcrenshaw/new-project/branch/main/graph/badge.svg?token=3P3LYKA7EV)](https://codecov.io/gh/jfcrenshaw/new-project)
 
-# python-package
-Template repo for a new python project.
+# new-project
+Template repo for a new python project, using poetry for dependency management and snakemake for workflow management.
 
 Steps:
 1. Clone this repo to your local work station
